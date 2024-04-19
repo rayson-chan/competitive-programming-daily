@@ -1,4 +1,4 @@
-# competitive-programming-daily
+# Competitive Programming Daily
 Daily competitive programming practice in Rust and C++
 
 ## Problems
